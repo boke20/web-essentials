@@ -1,0 +1,34 @@
+#paragraaf1{
+  color: #cba169;
+  width: 60%;
+  font-size: 20px;
+
+}
+#paragraaf2{
+  color: chartreuse;
+  width: 45%;
+  font-style: italic;
+  border: #222222;
+
+}
+#paragraaf3{
+
+  color: blue;
+  font-size: medium;
+  border-bottom: black double;
+
+}
+#paragraaf4{
+  color: lightpink;
+  background-color: #888888;
+  font-style: italic;
+  border: #222222;
+
+}
+#paragraaf5{
+  color: chartreuse;
+  width: 90%;
+  font-style: oblique;
+  border: crimson solid 5px;
+
+}
